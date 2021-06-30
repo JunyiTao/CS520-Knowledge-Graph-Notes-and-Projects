@@ -21,13 +21,13 @@ Lecture List:
 
 # 1. Shared Strategies, Assignments and Notes
 
-##Recommended Learning Strategies
+## Recommended Learning Strategies
 
-##Assignments
+## Assignments
 
-##Notes
+## Notes
 
-###Official Notes: original & annotated
-###Personal Notes
+### Official Notes: original & annotated
+### Personal Notes
 
 # 2. Related Projects
