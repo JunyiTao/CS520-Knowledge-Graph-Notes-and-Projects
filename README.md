@@ -37,8 +37,6 @@ Michael Genesereth
 
 
 
-
-
 # 1. Shared Strategies, Assignments and Notes
 
 ## Recommended Learning Strategies
