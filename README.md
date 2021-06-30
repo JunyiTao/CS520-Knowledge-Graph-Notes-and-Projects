@@ -23,8 +23,8 @@ The seminar is open to public. Remote participants may join the seminar through 
 
 ## People
 ### Organizers
-Vinay K. Chaudhri
-Naren Chittar
+Vinay K. Chaudhri; 
+Naren Chittar; 
 Michael Genesereth
 
 ### Invited Speakers
