@@ -63,6 +63,7 @@ Features | magenta
 
 
 ### Personal Notes
+Mindmapping.
 
 # 2. Related Projects
 
