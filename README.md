@@ -36,8 +36,6 @@ Michael Genesereth
 
 
 
-
-
 # 1. Shared Strategies, Assignments and Notes
 
 ## Recommended Learning Strategies
@@ -46,7 +44,24 @@ Michael Genesereth
 
 ## Notes
 
-### Official Notes: original & annotated
+### Official Notes - Original 
+### Official Notes - Annotated
+The notes are annotated to speed up scanning and facilitate understanding.
+Color:
+Methodology -> Green (pine green/ocean blue)
+Purpose -> Purple (orchid)
+Component -> orange
+Concept/Entities -> blue (lapis)
+Features -> magenta
+
+
 ### Personal Notes
 
 # 2. Related Projects
+
+
+
+
+
+
+
