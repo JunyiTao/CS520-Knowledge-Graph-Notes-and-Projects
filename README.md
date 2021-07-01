@@ -1,6 +1,7 @@
 # CS520-Spring2020-Knowledge-Graph-Notes-and-Projects
 > Learn knowledge graph together.
 > Notion Page: https://www.notion.so/CS520-Knowledge-Graphs-bd41e77e2bf74f499e14ae33ad58e071
+![image](https://user-images.githubusercontent.com/81023774/124049740-2072cf80-d9e7-11eb-927a-67a0ba8747d2.png)
 
 
 # 0. Course Info
