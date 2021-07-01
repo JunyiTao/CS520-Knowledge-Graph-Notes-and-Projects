@@ -1,12 +1,13 @@
 # CS520-Spring2020-Knowledge-Graph-Notes-and-Projects
 > Learn knowledge graph together.
 > Notion Page: https://www.notion.so/CS520-Knowledge-Graphs-bd41e77e2bf74f499e14ae33ad58e071
-![image](https://user-images.githubusercontent.com/81023774/124049740-2072cf80-d9e7-11eb-927a-67a0ba8747d2.png)
-
 
 # 0. Course Info
 
 CS520: https://web.stanford.edu/class/cs520/
+![image](https://user-images.githubusercontent.com/81023774/124049740-2072cf80-d9e7-11eb-927a-67a0ba8747d2.png)
+
+
 ## About
 Knowledge graphs have emerged as a compelling abstraction for organizing world's structured knowledge over the internet, capturing relationships among key entities of interest to enterprises, and a way to integrate information extracted from multiple data sources. Knowledge graphs have also started to play a central role in machine learning and natural language processing as a method to incorporate world knowledge, as a target knowledge representation for extracted knowledge, and for explaining what is being learned. This class is a graduate level research seminar and will include lectures on knowledge graph topics (e.g., data models, creation, inference, access) and invited lectures from prominent researchers and industry practitioners. The seminar emphasizes synthesis of AI, database systems and HCI in creating integrated intelligent systems centered around knowledge graphs.
  
