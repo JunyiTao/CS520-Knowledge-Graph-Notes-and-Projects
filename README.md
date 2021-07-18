@@ -10,17 +10,6 @@ CS520: https://web.stanford.edu/class/cs520/
 ## About
 Knowledge graphs have emerged as a compelling abstraction for organizing world's structured knowledge over the internet, capturing relationships among key entities of interest to enterprises, and a way to integrate information extracted from multiple data sources. Knowledge graphs have also started to play a central role in machine learning and natural language processing as a method to incorporate world knowledge, as a target knowledge representation for extracted knowledge, and for explaining what is being learned. This class is a graduate level research seminar and will include lectures on knowledge graph topics (e.g., data models, creation, inference, access) and invited lectures from prominent researchers and industry practitioners. The seminar emphasizes synthesis of AI, database systems and HCI in creating integrated intelligent systems centered around knowledge graphs.
  
-### Previous Edition
-This seminar was also offered during Spring 2020. The playlist of all the session videos from the previous edition is available [here] (https://www.youtube.com/playlist?list=PLDhh0lALedc7LC_5wpi5gDnPRnu1GSyRG)
-
-
-### Seminar Format
-The seminar will be offered over Zoom as per the planned schedule. The sessions will be recorded, and the recordings posted here as and when they become available.
-There will be two sessions each week. One of the sessions is based on the synthesis of the key points from the Spring 2020 series. The second session will feature invited speakers from academia and industry.
-Stanford students taking the course for credit will be required to complete 10 online quizzes through Canvas, and submit a written summary of any eight of the invited guest sessions.
-
-### Webinar Information
-The seminar is open to public. Remote participants may join the seminar through Zoom (see here for more details). To be added to the mailing list for course announcements for guests, please visit here. The playlist of all the session videos will be available here. 
 
 ## People
 ### Organizers
@@ -31,7 +20,24 @@ Michael Genesereth
 ### Invited Speakers
 
 
-## Lecture List:
+
+## OVERVIEW
+
+- **What is a knowledge graph**
+    - W1. What is a Knowledge Graph?
+    - W2. What are some Knowledge Graph data models?
+- **How to create a knowledge graph**
+    - W3. How to design the schema of a Knowledge Graph? (create a Knowledge Graph)
+    - W4. How to create a Knowledge Graph from Data
+    - W5. How to create a Knowledge Graph from Unstructured Input?
+- **How to reason with and access knowledge graphs**
+    - W6. What are some inference algorithms for Knowledge Graphs?
+    - W7. How do users interact with a Knowledge Graph?
+    - W8. How to evolve a Knowledge Graph?
+- **Applications**
+    - W9. What are some high value use cases of Knowledge Graphs?
+    - W10. What are some implementation tools for Knowledge Graphs? What are some research issues in Knowledge Graphs?
+
 
 
 
@@ -50,6 +56,7 @@ Michael Genesereth
 ## Assignments
 
 ## Notes
+
 
 ### Official Notes - Original 
 ### Official Notes - Annotated
