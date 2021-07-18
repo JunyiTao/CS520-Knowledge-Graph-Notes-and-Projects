@@ -58,7 +58,6 @@ Michael Genesereth
 ## Notes
 
 
-### Official Notes - Original 
 ### Official Notes - Annotated
 The notes are annotated to speed up scanning and facilitate understanding.
 Text | Color
@@ -73,8 +72,7 @@ Example:
 
 |Original | Annotated|
 :----: | :----:
-
-![image](https://user-images.githubusercontent.com/81023774/126054015-7a116c79-ddd0-4802-a321-8fd8c0d16518.png) | ![image](https://user-images.githubusercontent.com/81023774/126054006-64c83d0a-3b96-400a-a83c-fe015975dc7d.png)
+|![image](https://user-images.githubusercontent.com/81023774/126054015-7a116c79-ddd0-4802-a321-8fd8c0d16518.png) | ![image](https://user-images.githubusercontent.com/81023774/126054006-64c83d0a-3b96-400a-a83c-fe015975dc7d.png) |
 
 
 
@@ -82,10 +80,6 @@ Example:
 Mindmapping.
 
 # 2. Related Projects
-
-
-
-
 
 
 
